@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<document conv_body="true" conv_weld="true">
+	<combine_type type="0" level="1" />
+	<keep_color use_self_color="true" direct_color="4210752" />
+	<keep_property use_self_property="1" />
+	<coordinate_system use_global_coord="true" name="" />
+</document>
